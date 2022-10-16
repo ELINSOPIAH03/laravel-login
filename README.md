@@ -68,6 +68,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Dokumentasi
 
 Web ini dibuat untuk menyelesaikan tugas Pemrograman Web 2 
-Elin Sopiah - 17201018
+
+- Elin Sopiah - 17201018
+
+![image](https://user-images.githubusercontent.com/71278382/196024156-ed07e42c-b47b-4ea0-8c62-6cdf14651b13.png)
+![image](https://user-images.githubusercontent.com/71278382/196024162-a02099d5-5ad0-4e92-b8ae-31cadc0b02f2.png)
+
+web ii disertai validasi dan middleware
 
 
